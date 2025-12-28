@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddWalkInForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AppointmentsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Billing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CancelModal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CardPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="CheckInQueueForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DoctorDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DoctorsAppointmentsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DoctorsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DoctorsPatientHistoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DoctorsQueueForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MedicinesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PatientConsultationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PatientHistoryViewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PatientsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PharmacistDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PharmacistInventoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PharmacistPrescriptionsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PharmacistSalesHistoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PrescriptionsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProfileForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReceptionistAppointmentsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReceptionistDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RescheduleModal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RoundedTextbox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="SelectMedicineDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SignUpforAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
